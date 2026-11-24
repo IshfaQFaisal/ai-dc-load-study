@@ -3,6 +3,8 @@
 Code and data for the preprint "Rare-Event RoCoF Risk of Correlated AI Data Center Tripping:
 A Surrogate-Assisted Subset Simulation Study" by Mir Ishfak Faisal Rafi.
 
+Archived version: https://doi.org/10.5281/zenodo.24489890
+
 ## Requirements
 
 Python 3.11 or newer and the packages in requirements.txt (ANDES 2.0.0, numpy, pandas,
