@@ -4,6 +4,7 @@ Code and data for the preprint "Rare-Event RoCoF Risk of Correlated AI Data Cent
 A Surrogate-Assisted Subset Simulation Study" by Mir Ishfak Faisal Rafi.
 
 Archived version: https://doi.org/10.5281/zenodo.24489890
+Preprint: https://doi.org/10.5281/zenodo.24491676
 
 ## Requirements
 
